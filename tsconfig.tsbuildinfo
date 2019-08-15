@@ -1,0 +1,1121 @@
+{
+  "program": {
+    "fileInfos": {
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0",
+        "signature": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843",
+        "signature": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.d.ts": {
+        "version": "0fc0f68d3f4d94aa65fab955592e4a9f2066e6f8ee2f66fcc45adf4037fc167b",
+        "signature": "0fc0f68d3f4d94aa65fab955592e4a9f2066e6f8ee2f66fcc45adf4037fc167b"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4",
+        "signature": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "eb843da29336c7d5840bb439b24cf68a4a1652fd01c6e4e66ec74d8b136e944a",
+        "signature": "eb843da29336c7d5840bb439b24cf68a4a1652fd01c6e4e66ec74d8b136e944a"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52",
+        "signature": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21",
+        "signature": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2",
+        "signature": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4",
+        "signature": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4",
+        "signature": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0",
+        "signature": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62",
+        "signature": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8",
+        "signature": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.array.d.ts": {
+        "version": "fc7c02b980e7dda0ed14d57ee71705c09efc51ec6286a10b971a25a3bb29262b",
+        "signature": "fc7c02b980e7dda0ed14d57ee71705c09efc51ec6286a10b971a25a3bb29262b"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.object.d.ts": {
+        "version": "989b95205f1189943fab0ce12a39c80570edf8f200aca60e0fdc500afc4d5859",
+        "signature": "989b95205f1189943fab0ce12a39c80570edf8f200aca60e0fdc500afc4d5859"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.string.d.ts": {
+        "version": "669427ac10ef9f52b6a7a502a66670eaabba675e0a660eb971041bd73c9894e3",
+        "signature": "669427ac10ef9f52b6a7a502a66670eaabba675e0a660eb971041bd73c9894e3"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
+        "version": "7a842c21e0fe143eb3ad4d689a1470bab5ed9bc7fd7223fe8b56cbae27038d62",
+        "signature": "7a842c21e0fe143eb3ad4d689a1470bab5ed9bc7fd7223fe8b56cbae27038d62"
+      },
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.full.d.ts": {
+        "version": "2e29c91abb0c3a575ff79670fa315b6c09ac7a57a7b42aa509fa17f0a224968f",
+        "signature": "2e29c91abb0c3a575ff79670fa315b6c09ac7a57a7b42aa509fa17f0a224968f"
+      },
+      "/home/anton/matrix_notification/node_modules/@types/node/inspector.d.ts": {
+        "version": "7e49dbf1543b3ee54853ade4c5e9fa460b6a4eca967efe6bf943e0c505d087ed",
+        "signature": "7e49dbf1543b3ee54853ade4c5e9fa460b6a4eca967efe6bf943e0c505d087ed"
+      },
+      "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts": {
+        "version": "c7d2a06b4c4a725a024b57562644458e82d6143b9087d385dcc3fa548673ce4f",
+        "signature": "c7d2a06b4c4a725a024b57562644458e82d6143b9087d385dcc3fa548673ce4f"
+      },
+      "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts": {
+        "version": "1de0ff6200b92798a5aef43f57029c79dbf69932037dee1c007fdd2c562db258",
+        "signature": "1de0ff6200b92798a5aef43f57029c79dbf69932037dee1c007fdd2c562db258"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/appservice/Intent.d.ts": {
+        "version": "b242760df0ff1302843ad478054fc6f52d1eefb7ed8c1f9fad6b4e1d71a4ccff",
+        "signature": "b242760df0ff1302843ad478054fc6f52d1eefb7ed8c1f9fad6b4e1d71a4ccff"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/appservice/Appservice.d.ts": {
+        "version": "04b9c381b665b7acfe7c58ec73f47c56a12e3ea83257fdea9c11a510d26478f8",
+        "signature": "04b9c381b665b7acfe7c58ec73f47c56a12e3ea83257fdea9c11a510d26478f8"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/helpers/RichReply.d.ts": {
+        "version": "8c91cee257c8d122fcb1dcbb4e24787a429a21703c1fbc92441b977962bfe4aa",
+        "signature": "8c91cee257c8d122fcb1dcbb4e24787a429a21703c1fbc92441b977962bfe4aa"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/ILogger.d.ts": {
+        "version": "bae60fa30cc2a4e1b61867c2c00c7aad8c3119e3058c0fd5149c55d2bae79a5c",
+        "signature": "bae60fa30cc2a4e1b61867c2c00c7aad8c3119e3058c0fd5149c55d2bae79a5c"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/ConsoleLogger.d.ts": {
+        "version": "e55a142ec6f338170c655e3b8e873ab22d5caae82e0a42695c993ca37985394e",
+        "signature": "e55a142ec6f338170c655e3b8e873ab22d5caae82e0a42695c993ca37985394e"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/LogService.d.ts": {
+        "version": "d4fd32ee9ec066e81ac4dd55dc415e63556fe9c5db0d656994682577ea34aea8",
+        "signature": "d4fd32ee9ec066e81ac4dd55dc415e63556fe9c5db0d656994682577ea34aea8"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/IFilter.d.ts": {
+        "version": "bc3239a92ec1a5678921464dad6d8a1bf2da55895479c8dd34fb1d4a71a62a17",
+        "signature": "bc3239a92ec1a5678921464dad6d8a1bf2da55895479c8dd34fb1d4a71a62a17"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts": {
+        "version": "3f7f74708292e92c4c213187db5e45c80bda5fd4578e2f4fe9200028a02bc6b5",
+        "signature": "3f7f74708292e92c4c213187db5e45c80bda5fd4578e2f4fe9200028a02bc6b5"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/strategies/JoinRoomStrategy.d.ts": {
+        "version": "d45918d92a564a77645a5a9c8470b36d473e28ebb412ee05a97f4b4cf39d0926",
+        "signature": "d45918d92a564a77645a5a9c8470b36d473e28ebb412ee05a97f4b4cf39d0926"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/UnstableApis.d.ts": {
+        "version": "20cea032b0bfcbee4a67c9699a0a92d826c1bfea66e0a03fe12ab2a20f61c114",
+        "signature": "20cea032b0bfcbee4a67c9699a0a92d826c1bfea66e0a03fe12ab2a20f61c114"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts": {
+        "version": "dbcfdca62876dc7e29c9fad930a39ecbc839da6f29e4acf7162a20bafd25aeca",
+        "signature": "dbcfdca62876dc7e29c9fad930a39ecbc839da6f29e4acf7162a20bafd25aeca"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixClient.d.ts": {
+        "version": "0f30f29eeb3dc7a56193b9ac0a9f0d0a99a73947fccf03b257ade1f27dc8cf49",
+        "signature": "0f30f29eeb3dc7a56193b9ac0a9f0d0a99a73947fccf03b257ade1f27dc8cf49"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/mixins/AutojoinRoomsMixin.d.ts": {
+        "version": "aa13794ac502edb1390fff40d86b4353722b0be38fc7a5b568f5ab38293360c1",
+        "signature": "aa13794ac502edb1390fff40d86b4353722b0be38fc7a5b568f5ab38293360c1"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/mixins/AutojoinUpgradedRoomsMixin.d.ts": {
+        "version": "04469ade95c472e4d06fd6890b17e984710febf6f2f45b8eebd2bd48e81538c0",
+        "signature": "04469ade95c472e4d06fd6890b17e984710febf6f2f45b8eebd2bd48e81538c0"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/preprocessors/RichRepliesPreprocessor.d.ts": {
+        "version": "53976b5f3b3d3e288684e72b27e8c94c3260ad4d85122b67a25fa126bfe9e356",
+        "signature": "53976b5f3b3d3e288684e72b27e8c94c3260ad4d85122b67a25fa126bfe9e356"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IAppserviceStorageProvider.d.ts": {
+        "version": "99f34dc2a1bab4abee6e118a22ff68f17668c51a1666bc272ba9b01529e3ddc2",
+        "signature": "99f34dc2a1bab4abee6e118a22ff68f17668c51a1666bc272ba9b01529e3ddc2"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/MemoryStorageProvider.d.ts": {
+        "version": "bcbabc312ee36bd0540af5ce37ac18035a89778ea3ed8f97d4a5136d4cdad805",
+        "signature": "bcbabc312ee36bd0540af5ce37ac18035a89778ea3ed8f97d4a5136d4cdad805"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/SimpleFsStorageProvider.d.ts": {
+        "version": "e0c32b4b2303135bb0b8863491428f38423bb95f56678c9890dd009e25c4982d",
+        "signature": "e0c32b4b2303135bb0b8863491428f38423bb95f56678c9890dd009e25c4982d"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/strategies/AppserviceJoinRoomStrategy.d.ts": {
+        "version": "9e8126f1a6504ee59f5142ed32a5b9dca1b7424c61c07134025cea8e8b28cf1c",
+        "signature": "9e8126f1a6504ee59f5142ed32a5b9dca1b7424c61c07134025cea8e8b28cf1c"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixAuth.d.ts": {
+        "version": "9ee224f3d5a319c297b8e62f45a616512c5d4ee209144bc61af841a0c4368536",
+        "signature": "9ee224f3d5a319c297b8e62f45a616512c5d4ee209144bc61af841a0c4368536"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/request.d.ts": {
+        "version": "821e1aa8c7a2517bb75eb0e09b92ba712fd5e151c55bba53677bbe2729bafdaa",
+        "signature": "821e1aa8c7a2517bb75eb0e09b92ba712fd5e151c55bba53677bbe2729bafdaa"
+      },
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/index.d.ts": {
+        "version": "dd13b4c56b27545dfbaa80b11864e090fed12ad01b1249a0572aefc5dbc50f9f",
+        "signature": "dd13b4c56b27545dfbaa80b11864e090fed12ad01b1249a0572aefc5dbc50f9f"
+      },
+      "/home/anton/matrix_notification/node_modules/@types/linkify-it/index.d.ts": {
+        "version": "394c967330bc37c409abf2d7ab374975158a241ac1d7368a1b998c0206aa1f2e",
+        "signature": "394c967330bc37c409abf2d7ab374975158a241ac1d7368a1b998c0206aa1f2e"
+      },
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts": {
+        "version": "9ff77f7cddf7f2d18d581befa02be977e929f9bba2945975cd475c5ea1121779",
+        "signature": "9ff77f7cddf7f2d18d581befa02be977e929f9bba2945975cd475c5ea1121779"
+      },
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_core/state_core.d.ts": {
+        "version": "b4b5118a66409a1f038317a7d84c9f2a40e59073cfd1812e8f25108b49e5d090",
+        "signature": "b4b5118a66409a1f038317a7d84c9f2a40e59073cfd1812e8f25108b49e5d090"
+      },
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_block/state_block.d.ts": {
+        "version": "4477c34fb65c298de575901e09c1a07bb72f256e035534b8d8c36cb9a88ab26f",
+        "signature": "4477c34fb65c298de575901e09c1a07bb72f256e035534b8d8c36cb9a88ab26f"
+      },
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_inline/state_inline.d.ts": {
+        "version": "38c22c0a1eef86d85cfa65f5595518000737bcd375e144d989a244fbb96fbc8d",
+        "signature": "38c22c0a1eef86d85cfa65f5595518000737bcd375e144d989a244fbb96fbc8d"
+      },
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/ruler.d.ts": {
+        "version": "d61c957e12422610f841dc43acce323fe465efb2f93e550fb1b8067b5d912d15",
+        "signature": "d61c957e12422610f841dc43acce323fe465efb2f93e550fb1b8067b5d912d15"
+      },
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/parser_core.d.ts": {
+        "version": "2cd94032afa12afa1b30c60a1d4c5f8eec60bfe1685db515fb5df91554d0e92d",
+        "signature": "2cd94032afa12afa1b30c60a1d4c5f8eec60bfe1685db515fb5df91554d0e92d"
+      },
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/parser_block.d.ts": {
+        "version": "233ee9b386332a630eb490287b2c96a0aaee89345746db577360882f2ea365c0",
+        "signature": "233ee9b386332a630eb490287b2c96a0aaee89345746db577360882f2ea365c0"
+      },
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/parser_inline.d.ts": {
+        "version": "f6b1170ee583cba2a4c585fae21ca9bb92e23a8b6bf1b9f432a8d567e5858dfc",
+        "signature": "f6b1170ee583cba2a4c585fae21ca9bb92e23a8b6bf1b9f432a8d567e5858dfc"
+      },
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/renderer.d.ts": {
+        "version": "6ab11a659321ed2a2f7cadb2e3dc610f65fbc20726b0989cff60811f6576e70c",
+        "signature": "6ab11a659321ed2a2f7cadb2e3dc610f65fbc20726b0989cff60811f6576e70c"
+      },
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts": {
+        "version": "2169b8338a415aa09345aa35ac01e290bc04ee84474b6ec0cb17a0dde433ee27",
+        "signature": "2169b8338a415aa09345aa35ac01e290bc04ee84474b6ec0cb17a0dde433ee27"
+      },
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/index.d.ts": {
+        "version": "cf963f97022b2f1092e68eaf0b9bc7c1396af8fd943a35ca7fd1a74625013f6a",
+        "signature": "cf963f97022b2f1092e68eaf0b9bc7c1396af8fd943a35ca7fd1a74625013f6a"
+      },
+      "/home/anton/matrix_notification/src/notif_bot.ts": {
+        "version": "61a3d140a9806803c9c3214e2c3e68c06e28900a09a3e3dfc6dcc852b8063065",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      }
+    },
+    "options": {
+      "incremental": true,
+      "target": 6,
+      "module": 1,
+      "outDir": "/home/anton/matrix_notification/lib",
+      "rootDir": "/home/anton/matrix_notification/src",
+      "composite": true,
+      "strict": true,
+      "noImplicitAny": false,
+      "esModuleInterop": true,
+      "configFilePath": "/home/anton/matrix_notification/tsconfig.json"
+    },
+    "referencedMap": {
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es5.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.dom.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.dom.iterable.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.scripthost.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.array.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.object.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.string.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.symbol.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.full.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/node/inspector.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/inspector.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/appservice/Intent.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/appservice/Appservice.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/appservice/Appservice.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/appservice/Intent.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/helpers/RichReply.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/ILogger.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/ConsoleLogger.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/ILogger.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/LogService.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/ILogger.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/IFilter.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/IFilter.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/strategies/JoinRoomStrategy.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/UnstableApis.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixClient.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/strategies/JoinRoomStrategy.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/UnstableApis.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/mixins/AutojoinRoomsMixin.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/mixins/AutojoinUpgradedRoomsMixin.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/preprocessors/RichRepliesPreprocessor.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IAppserviceStorageProvider.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/MemoryStorageProvider.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/IFilter.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IAppserviceStorageProvider.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/SimpleFsStorageProvider.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/IFilter.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IAppserviceStorageProvider.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/strategies/AppserviceJoinRoomStrategy.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/strategies/JoinRoomStrategy.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixAuth.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/request.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/index.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/appservice/Appservice.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/appservice/Intent.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/helpers/RichReply.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/ConsoleLogger.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/ILogger.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/LogService.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/mixins/AutojoinRoomsMixin.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/mixins/AutojoinUpgradedRoomsMixin.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/preprocessors/RichRepliesPreprocessor.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IAppserviceStorageProvider.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/MemoryStorageProvider.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/SimpleFsStorageProvider.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/strategies/AppserviceJoinRoomStrategy.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/strategies/JoinRoomStrategy.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/IFilter.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixAuth.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/UnstableApis.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/request.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/linkify-it/index.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_core/state_core.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_block/state_block.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_core/state_core.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_inline/state_inline.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_core/state_core.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/ruler.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_core/state_core.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/parser_core.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/ruler.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_core/state_core.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/parser_block.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/parser_inline.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_core/state_core.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/renderer.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/linkify-it/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_core/state_core.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_block/state_block.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_inline/state_inline.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/parser_core.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/parser_block.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/parser_inline.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/renderer.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/ruler.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/index.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/src/notif_bot.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es5.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.dom.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.dom.iterable.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.scripthost.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.array.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.object.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.string.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.symbol.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.full.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/node/inspector.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/inspector.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/appservice/Intent.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/appservice/Appservice.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/appservice/Appservice.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/appservice/Intent.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/helpers/RichReply.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/ILogger.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/ConsoleLogger.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/ILogger.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/LogService.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/ILogger.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/IFilter.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/IFilter.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/strategies/JoinRoomStrategy.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/UnstableApis.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixClient.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/strategies/JoinRoomStrategy.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/UnstableApis.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/mixins/AutojoinRoomsMixin.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/mixins/AutojoinUpgradedRoomsMixin.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/preprocessors/RichRepliesPreprocessor.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IAppserviceStorageProvider.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/MemoryStorageProvider.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/IFilter.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IAppserviceStorageProvider.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/SimpleFsStorageProvider.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/IFilter.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IAppserviceStorageProvider.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/strategies/AppserviceJoinRoomStrategy.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/strategies/JoinRoomStrategy.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixAuth.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/request.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/index.d.ts": [
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/appservice/Appservice.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/appservice/Intent.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/helpers/RichReply.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/ConsoleLogger.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/ILogger.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/LogService.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/mixins/AutojoinRoomsMixin.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/mixins/AutojoinUpgradedRoomsMixin.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/preprocessors/RichRepliesPreprocessor.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IAppserviceStorageProvider.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/MemoryStorageProvider.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/SimpleFsStorageProvider.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/strategies/AppserviceJoinRoomStrategy.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/strategies/JoinRoomStrategy.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/IFilter.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixClient.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixAuth.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/UnstableApis.d.ts",
+        "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/request.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/linkify-it/index.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_core/state_core.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_block/state_block.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_core/state_core.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_inline/state_inline.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_core/state_core.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/ruler.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_core/state_core.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/parser_core.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/ruler.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_core/state_core.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/parser_block.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/parser_inline.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_core/state_core.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/renderer.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/linkify-it/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_core/state_core.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_block/state_block.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_inline/state_inline.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/parser_core.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/parser_block.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/parser_inline.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/renderer.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/ruler.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/index.d.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es5.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2016.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.dom.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.array.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.object.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.string.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.symbol.d.ts",
+      "/home/anton/matrix_notification/node_modules/typescript/lib/lib.es2019.full.d.ts",
+      "/home/anton/matrix_notification/node_modules/@types/node/inspector.d.ts",
+      "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+      "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/appservice/Intent.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/appservice/Appservice.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/helpers/RichReply.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/ILogger.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/ConsoleLogger.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/logging/LogService.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/IFilter.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IStorageProvider.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/strategies/JoinRoomStrategy.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/UnstableApis.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/preprocessors/IPreprocessor.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixClient.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/mixins/AutojoinRoomsMixin.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/mixins/AutojoinUpgradedRoomsMixin.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/preprocessors/RichRepliesPreprocessor.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/IAppserviceStorageProvider.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/MemoryStorageProvider.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/storage/SimpleFsStorageProvider.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/strategies/AppserviceJoinRoomStrategy.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/MatrixAuth.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/request.d.ts",
+      "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/index.d.ts",
+      "/home/anton/matrix_notification/node_modules/@types/linkify-it/index.d.ts",
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/token.d.ts",
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_core/state_core.d.ts",
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_block/state_block.d.ts",
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/rules_inline/state_inline.d.ts",
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/ruler.d.ts",
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/parser_core.d.ts",
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/parser_block.d.ts",
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/parser_inline.d.ts",
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/renderer.d.ts",
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
+      "/home/anton/matrix_notification/node_modules/@types/markdown-it/index.d.ts",
+      "/home/anton/matrix_notification/src/notif_bot.ts"
+    ]
+  },
+  "version": "3.5.3"
+}
