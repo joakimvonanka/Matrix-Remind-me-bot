@@ -4,7 +4,7 @@ import {
 import markdown from "markdown-it"
 import _ts from "timestring"
 import { NotificationMap } from "./notificationmap";
-
+import config from "../config.json"
 const timestring: (timestring: string, format: "ms") => number = _ts;
 const md = markdown({});
 class notif_bot {   
@@ -13,10 +13,10 @@ class notif_bot {
     async main() {
         console.log("Its working")
         // where you would point a client to talk to a homeserver
-        const homeserverUrl = "http://localhost:8008";
+        const homeserverUrl = config.homeserver;
 
         // see https://t2bot.io/docs/access_tokens
-        const accessToken = "MDAxN2xvY2F0aW9uIGxvY2FsaG9zdAowMDEzaWRlbnRpZmllciBrZXkKMDAxMGNpZCBnZW4gPSAxCjAwMjFjaWQgdXNlcl9pZCA9IEBib3Q6bG9jYWxob3N0CjAwMTZjaWQgdHlwZSA9IGFjY2VzcwowMDIxY2lkIG5vbmNlID0gTk5yOm5aVTtAanVhcT1lMgowMDJmc2lnbmF0dXJlIOerTmFmMZ2xHHlY_crSNqk3oLDIJI4CRZ_6IBpYfTRvCg";
+        const accessToken = config.accesstoken;
 
         // We'll want to make sure the bot doesn't have to do an initial sync every
         // time it restarts, so we need to prepare a storage provider. Here we use
