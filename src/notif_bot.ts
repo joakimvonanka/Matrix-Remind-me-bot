@@ -4,7 +4,7 @@ import {
 import markdown from "markdown-it"
 import _ts from "timestring"
 import { NotificationMap } from "./notificationmap";
-import config from "../config.json"
+import fs from "fs"
 const timestring: (timestring: string, format: "ms") => number = _ts;
 const md = markdown({});
 class notif_bot {   
@@ -12,6 +12,7 @@ class notif_bot {
     private notifMap: NotificationMap = new NotificationMap()
     async main() {
         console.log("Its working")
+        const config = JSON.parse(fs.readFileSync("./config.json", "utf-8"));
         // where you would point a client to talk to a homeserver
         const homeserverUrl = config.homeserver;
 

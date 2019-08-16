@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "start": "tsc && node ./lib/notif_bot.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@types/markdown-it": "0.0.8",
+    "lowdb": "^1.0.0",
     "markdown-it": "^9.1.0",
     "matrix-bot-sdk": "^0.3.9",
     "timestring": "^6.0.0",
