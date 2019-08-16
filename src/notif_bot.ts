@@ -3,18 +3,13 @@ import {
 } from "matrix-bot-sdk"
 import markdown from "markdown-it"
 import _ts from "timestring"
+import { NotificationMap } from "./notificationmap";
 
 const timestring: (timestring: string, format: "ms") => number = _ts;
-
-interface notification {
-    timer:NodeJS.Timer,
-    message: string,
-    timeout: number
-}
 const md = markdown({});
 class notif_bot {   
     private client!: MatrixClient
-    private notifMap: Map<string, notification> = new Map();
+    private notifMap: NotificationMap = new NotificationMap()
     async main() {
         console.log("Its working")
         // where you would point a client to talk to a homeserver
@@ -69,9 +64,14 @@ class notif_bot {
         } else if (command === "!checkreminder") {
             await this.checkreminder(roomId, event)
         } else if (command === "!cancelreminder") {
-            await this.cancelreminder(roomId, event)
+            await this.cancelreminder(roomId, event, commandArgs[1])
         } else if (command === "!help") {
             await this.help(roomId, event)
+        } else if (command === "!setinterval") {
+            const message = commandArgs.slice(2).join(" ");
+            await this.intervalreminder(roomId, event, commandArgs[1], message);
+        } else if (command === "!cancelinterval") {
+            await this.cancelinterval(roomId, event, commandArgs[1])
         }
         
     
@@ -84,17 +84,26 @@ class notif_bot {
         reply["msgtype"] = "m.notice";
         await this.client.sendMessage(roomId, reply)
         const myTimeout = setTimeout(this.reminderActivated.bind(this, roomId, event, message), millisecondsDelay)
-        this.notifMap.set(event.sender, {
-            timer : myTimeout,
-            message,
-            timeout: millisecondsDelay
-        });
+        this.notifMap.addNotification(event.sender, message, millisecondsDelay, myTimeout)
+    }
+    async intervalreminder(roomId:string, event:any, timeString:string, message:string) {
+        const msdelay = timestring(timeString, "ms");
+        const replyBody = `Your reminder has been set. You will be reminded in ${msdelay}ms`
+        const reply = RichReply.createFor(roomId,event, replyBody, replyBody)
+        reply["msgtype"] = "m.notice"
+        await this.client.sendMessage(roomId, reply)
+        const myInterval = setInterval(this.reminderActivated.bind(this, roomId, event, message), msdelay)
+        this.notifMap.addNotification(event.sender, message, msdelay, myInterval)
     }
     async checkreminder(roomId:string, event:any) {
         let replyBody = "You have a bug"
         if (this.notifMap.has(event.sender)) {
-            const timer = this.notifMap.get(event.sender);
-            replyBody = `You have a reminder going: ${timer!.message}`
+            const timers = this.notifMap.get(event.sender)!;
+            replyBody = `You have a reminder(s) going: `
+            for (const timer of timers) {
+                replyBody += `- ${timer.message}`
+                
+            }
         } else {
             replyBody = "You have no reminders at the moment"
         }
@@ -102,12 +111,33 @@ class notif_bot {
         reply["msgtype"] = "m.notice"
         await this.client.sendMessage(roomId, reply)
     }
-    async cancelreminder(roomId:string, event:any) {
+    async cancelreminder(roomId:string, event:any, timerNumber:string) {
         let replyBody = "You have a bug"
         if (this.notifMap.has(event.sender)) {
-            clearTimeout(this.notifMap.get(event.sender)!.timer)
-            this.notifMap.delete(event.sender)
-            replyBody = "Your reminder has been removed" 
+            const timer = this.notifMap.removeNotification(event.sender, parseInt(timerNumber))
+            if (timer ) {
+                clearTimeout(timer.timer)
+                replyBody = "Your reminder has been removed"
+            } else {
+                replyBody = "Couldn't find reminder"
+            }
+        } else {
+            replyBody = "You do not have a reminder going"
+        }
+        const reply = RichReply.createFor(roomId, event, replyBody, replyBody)
+        reply["msgtype"] = "m.notice"
+        await this.client.sendMessage(roomId, reply)
+    }
+    async cancelinterval(roomId:string, event:any, timerNumber:string) {
+        let replyBody = "You have a bug"
+        if (this.notifMap.has(event.sender)) {
+            const timer = this.notifMap.removeNotification(event.sernder, parseInt(timerNumber))
+            if (timer ) {
+                clearInterval(timer.timer)
+                replyBody = "Your interval reminder has been removed"
+            } else {
+                replyBody = "Couldn't find reminder"
+            }
         } else {
             replyBody = "You do not have a reminder going"
         }
@@ -117,7 +147,7 @@ class notif_bot {
     }
     async help(roomId:string, event:any) {
         const replyBody = `
-**!setreminder**: make a reminder. Usage: !setreminder <time><time unit><message>  
+**!setreminder**: make a reminder. Usage: !setreminder <time><unit> <message>  
 **!checkreminder**: check reminder status. Usage: !checkreminder  
 **!cancelreminder**: cancel your reminder. Usage: !cancelreminder  
 `

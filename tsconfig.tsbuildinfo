@@ -285,8 +285,12 @@
         "version": "cf963f97022b2f1092e68eaf0b9bc7c1396af8fd943a35ca7fd1a74625013f6a",
         "signature": "cf963f97022b2f1092e68eaf0b9bc7c1396af8fd943a35ca7fd1a74625013f6a"
       },
+      "/home/anton/matrix_notification/src/notificationmap.ts": {
+        "version": "c1834ee56cb255d4f5762ba3f50441438742b2435471308af6d703b0bee81bbb",
+        "signature": "b06bf772234b922bbe46ad4d4fd024a55b1698a6b302fb346ede1e8153b918bd"
+      },
       "/home/anton/matrix_notification/src/notif_bot.ts": {
-        "version": "61a3d140a9806803c9c3214e2c3e68c06e28900a09a3e3dfc6dcc852b8063065",
+        "version": "efec8a4099247da7938a3c697a14379db52dd42f50a4dd15e6bcfb4f9b399508",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
       }
     },
@@ -668,9 +672,14 @@
         "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
         "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
       ],
+      "/home/anton/matrix_notification/src/notificationmap.ts": [
+        "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
+        "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
+      ],
       "/home/anton/matrix_notification/src/notif_bot.ts": [
         "/home/anton/matrix_notification/node_modules/matrix-bot-sdk/lib/index.d.ts",
         "/home/anton/matrix_notification/node_modules/@types/markdown-it/index.d.ts",
+        "/home/anton/matrix_notification/src/notificationmap.ts",
         "/home/anton/matrix_notification/node_modules/@types/node/base.d.ts",
         "/home/anton/matrix_notification/node_modules/@types/node/ts3.2/index.d.ts"
       ]
@@ -1114,6 +1123,7 @@
       "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/renderer.d.ts",
       "/home/anton/matrix_notification/node_modules/@types/markdown-it/lib/index.d.ts",
       "/home/anton/matrix_notification/node_modules/@types/markdown-it/index.d.ts",
+      "/home/anton/matrix_notification/src/notificationmap.ts",
       "/home/anton/matrix_notification/src/notif_bot.ts"
     ]
   },
