@@ -132,7 +132,7 @@ class notif_bot {
     async cancelinterval(roomId:string, event:any, timerNumber:string) {
         let replyBody = "You have a bug"
         if (this.notifMap.has(event.sender)) {
-            const timer = this.notifMap.removeNotification(event.sernder, parseInt(timerNumber))
+            const timer = this.notifMap.removeNotification(event.sender, parseInt(timerNumber))
             if (timer ) {
                 clearInterval(timer.timer)
                 replyBody = "Your interval reminder has been removed"
