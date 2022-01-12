@@ -13,7 +13,7 @@
   "dependencies": {
     "@types/markdown-it": "0.0.8",
     "lowdb": "^1.0.0",
-    "markdown-it": "^9.1.0",
+    "markdown-it": "^12.3.2",
     "matrix-bot-sdk": "^0.3.9",
     "timestring": "^6.0.0",
     "typescript": "^3.5.3"
